@@ -11,4 +11,6 @@ public class GitTutorialApplication {
     }
 
     //unnecessary comment
+
+    String name = "Filip";
 }
