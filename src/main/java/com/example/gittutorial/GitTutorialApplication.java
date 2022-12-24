@@ -9,6 +9,6 @@ public class GitTutorialApplication {
     public static void main(String[] args) {
         System.out.println("Test change");
         SpringApplication.run(GitTutorialApplication.class, args);
+        System.out.println("zmiana dominika");
     }
-
 }
